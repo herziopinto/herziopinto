@@ -1,9 +1,6 @@
-### Hi there! I'm Hérzio! 👋
+### Hi there! I'm Hérzio! 😁
 
 - 🌱 I’m currently learning front-end
-- 🤔 I’m looking for help with JavaScript
-- 📫 How to reach me: herziojunior@gmail.com
-- 😄 Pronouns: he/him
 
 <div align="center">
   <a href="https://github.com/herziopinto">
