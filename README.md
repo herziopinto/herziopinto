@@ -1,6 +1,6 @@
 ### Hi there! I'm Hérzio! 😁
 
-- 🌱 I’m currently learning front-end
+- 🌱 Quality Engineer
 
 <div align="center">
   <a href="https://github.com/herziopinto">
@@ -20,7 +20,7 @@
 <div>
   <a href="https://www.linkedin.com/in/herzio-pinto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatoherziojunior@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://api.whatsapp.com/send?phone=447939812476"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href = "https://api.whatsapp.com/send?phone=351913956896"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "https://msng.link/o/?@herziopinto=tg"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/herziojr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   </div>
